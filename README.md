@@ -15,6 +15,3 @@
 | CPP08  | STL containers and algorithms                   | STL             |
 | CPP09  | Iterators, algorithms, functor, lambda          | STL             |
 
-## How to Use
-
-Each module contains its own set of exercises and projects. To get started with a specific module, navigate to its directory and right there you can find the corresponding subject PDF file.
